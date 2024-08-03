@@ -10,9 +10,7 @@ Module Milestone_Systems_Approach: link --> https://github.com/marysaray/Systems
 For Educational Purpose Review Only: [![](https://markdown-videos-api.jorgenkh.no/youtube/-rQw7O1KCZU)](https://youtu.be/-rQw7O1KCZU)
 ![EMIDigital](https://github.com/user-attachments/assets/977c50e2-c1ed-4ac1-bde9-ef6f02694619)
 ![MarySarayElectricalSchematicOverviewSU24](https://github.com/user-attachments/assets/1e98b561-e277-4dea-bd3c-c59d0812b573)
-![FluidPowerSchematics](https://github.com/user-attachments/assets/8824b9c7-17c3-4425-ba48-ec66586b9b2f)
-
-
+![FluidPowerSchematics](https://github.com/user-attachments/assets/25481db5-e1d0-4a29-babc-beef57a4ce32)
 
 ```
 1. Troubleshoot malfunctions through localizing, identifying and where possible
