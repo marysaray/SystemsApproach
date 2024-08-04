@@ -1,11 +1,7 @@
 # Systems Approach BAS-META – Bridge
 *The analysis and manipulation of complex systems from a top-down modular approach. Students learn how to divide a complex system into smaller modules and mapping them down to their single components, identifying sources of power, control signals, and conversions of energy along the way.*
 
-Module Milestone_Systems_Approach: link --> https://github.com/marysaray/SystemsApproach/issues/1
-
-Module Milestone_Systems_Approach: link --> https://github.com/marysaray/SystemsApproach/issues/2
-
-Module Milestone_Systems_Approach: link --> https://github.com/marysaray/SystemsApproach/issues/3
+Module Milestones: https://github.com/marysaray/SystemsApproach/milestones 
 
 For Educational Purpose Review Only: [![](https://markdown-videos-api.jorgenkh.no/youtube/-rQw7O1KCZU)](https://youtu.be/-rQw7O1KCZU)
 ![EMIDigital](https://github.com/user-attachments/assets/977c50e2-c1ed-4ac1-bde9-ef6f02694619)
