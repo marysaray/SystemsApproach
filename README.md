@@ -16,8 +16,7 @@ Module Milestones: https://github.com/marysaray/SystemsApproach/milestones
 ![Screenshot 2024-08-17 105735](https://github.com/user-attachments/assets/4312c572-82fa-4e7e-882e-fc111ffd018a)
 ![Screenshot 2024-08-17 105605](https://github.com/user-attachments/assets/9b3235b8-3699-4fa0-9536-e85e24ab982a)
 ![Screenshot 2024-08-17 105537](https://github.com/user-attachments/assets/b7e1e80a-0acb-4470-8413-c3b78c1ca9f8)
-
-
+![SarayMaryDisplacementStepDiagramModule7Turnin](https://github.com/user-attachments/assets/e45fcf6d-9e97-40e9-9560-d2557d9aa4af)
 
 
 ```
